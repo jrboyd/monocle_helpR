@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data_alyssa
+output
+module_clusterProfiler.pdf
+modules_heatmap_geneLists.csv
+scripts.zip
+scripts_backup
+seurat_genotypes.png
+violins.pdf

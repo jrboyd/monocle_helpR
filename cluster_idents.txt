@@ -1,0 +1,19 @@
+seurat_clusters	bio_name	signature_genes	color
+0	1	Cd79a,Cd79b	#6BAED6
+1	1		#6BAED6
+2	1		#6BAED6
+3	1		#6BAED6
+5	1		#6BAED6
+16	1		#6BAED6
+10	2		#2171B5
+11	3		#4292C6
+7	4		#084594
+4	5		#8C96C6
+13	6		#810F7C
+6	7		#FDAE6B
+15	8		#A63603
+12	9		#DE2D26
+9	10		#FB6A4A
+8	11		#FCAE91
+14	12		#A50F15
+
